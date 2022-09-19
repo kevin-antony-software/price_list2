@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "694118916699",
+    "project_id": "retop-price-list",
+    "storage_bucket": "retop-price-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694118916699:android:b046a7aac2c9ba8676557e",
+        "android_client_info": {
+          "package_name": "com.example.retop_prices_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694118916699-p19riuun1top0he0o6a6ua5nbgs27ugj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUHRn6qyMx8U25GXv8Il9VGNd3Vml64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694118916699-p19riuun1top0he0o6a6ua5nbgs27ugj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694118916699-8i5bq1n5b4opopn1mg5c1aauemffeqvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kandkinter.retopPrices"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694118916699:android:e83f13b0cfea0fba76557e",
+        "android_client_info": {
+          "package_name": "com.kandkinter.retop_prices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694118916699-p19riuun1top0he0o6a6ua5nbgs27ugj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUHRn6qyMx8U25GXv8Il9VGNd3Vml64c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694118916699-p19riuun1top0he0o6a6ua5nbgs27ugj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694118916699-8i5bq1n5b4opopn1mg5c1aauemffeqvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kandkinter.retopPrices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
